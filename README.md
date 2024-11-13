@@ -1,4 +1,4 @@
-# InternLM_homework
+# InternLM_homework 1-4关
 
 ## 第一关
 直接在终端执行ssh登陆并配置公钥
