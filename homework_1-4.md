@@ -20,6 +20,15 @@ leecode解题，思路就是统计a中的每个字母及其个数是否均小于
 
 
 ## 第三关
+创建一个我的分支
+![image](https://github.com/user-attachments/assets/9db78dea-6b65-4d5a-b786-271ff5ad6afa)
+
+编辑我的介绍文件5261.md，并推到github仓库。
+![image](https://github.com/user-attachments/assets/946cd8a5-47c2-442c-a146-c9aee257c25a)
+
+成功pr
+![image](https://github.com/user-attachments/assets/03eafa52-d13e-4e32-84e8-7c383d913853)
+
 
 
 ## 第四关
