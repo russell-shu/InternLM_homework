@@ -15,6 +15,8 @@ leecode解题，思路就是统计a中的每个字母及其个数是否均小于
 运行出错，进行调试，发现返回的res不对，导致json.loads()报错
 ![image](https://github.com/user-attachments/assets/1ae9d14a-5276-4c70-a624-6308a72eaa94)
 修改代码，主要是删除res中的多余内容，使其符合json格式
+![image](https://github.com/user-attachments/assets/a70bb980-ab25-41c4-b581-4fa6eb5e1977)
+
 
 
 ## 第三关
