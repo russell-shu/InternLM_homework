@@ -29,7 +29,8 @@ leecode解题，思路就是统计a中的每个字母及其个数是否均小于
 成功pr
 ![image](https://github.com/user-attachments/assets/03eafa52-d13e-4e32-84e8-7c383d913853)
 
-
+在github创建本项目，用于提交作业并记录笔记。根据后续课程，还将自己完成一些实战项目...
+https://github.com/russell-shu/InternLM_homework.git
 
 ## 第四关
 
