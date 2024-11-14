@@ -33,4 +33,7 @@ leecode解题，思路就是统计a中的每个字母及其个数是否均小于
 https://github.com/russell-shu/InternLM_homework.git
 
 ## 第四关
-
+用github的codespace新建conda环境，安装transformer库下载模型。
+创建huggingface的space，并拉到本地，修改html文件，显示训练营的界面。
+本地创建huggingngface的代码模型库，下载模型以及对应的json文件，push到huggingface。
+总结：就是使用codespace可以不用开代理使用transformer下载模型以及如何使用或者维护一个模型托管平台。
