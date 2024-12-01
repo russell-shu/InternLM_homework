@@ -11,3 +11,5 @@ ValueError: numpy.dtype size changed, may indicate binary incompatibility. Expec
 通过重装torch，解决。
 运行代码，成功
 ![image](https://github.com/user-attachments/assets/f2080c5a-c88e-4d0b-b334-2b1b9809eb47)
+结果
+![image](https://github.com/user-attachments/assets/81510ad7-688a-468c-9543-373036c3e87d)
